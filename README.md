@@ -1,13 +1,45 @@
-![image](https://user-images.githubusercontent.com/1061632/191292733-fe7516d2-aaf9-4fc6-bbed-14fbd9d26dd5.png)
+# Visual Thinking
 
+link
 
-Tekenen is een manier om simpel en to-the-point te communiceren en wordt in de praktijk steeds vaker gebruikt als tool voor interne en externe communicatie. ‘Visual thinking in het hbo’ wordt een platform met onderwijsmateriaal voor docenten en studenten om visual thinking in hun lessen en tijdens de studie toe te kunnen passen.
+<!-- ![mockup](https://user-images.githubusercontent.com/90189679/151720324-74f23e4b-0ebc-40f3-a785-ff45efeb3b52.png) -->
 
-Aan de hand van verschillende werkvormen, mini-cursussen en kennisclips leren, zowel studenten als docenten, visueel denken en communiceren.
+## Inhoudsopgave
 
-## Resources
-[Project board](https://github.com/orgs/fdnd-agency/projects/7) 
+  * [Beschrijving](#beschrijving)
+  * [Kenmerken](#kenmerken)
+  * [Installatie](#installatie)
+  * [Bronnen](#bronnen)
+  * [Licentie](#licentie)
 
-[Styleguide](https://github.com/fdnd-projects/visual-thinking/blob/0bcfc55d8c25483d18e5c6629ad7fa7e99ca7b51/vtHBO-styleguide-v1.pdf)  
+## Beschrijving
 
-[Prototype / content](https://www.figma.com/proto/BcmZb4clafkTX1UM1GN3F2/Prototype-v3-Visual-Thinking-in-het-HBO?node-id=21%3A995&starting-point-node-id=21%3A995&scaling=scale-down)  
+Charley ontving een Comeniusbeurs voor haar plan om een platform te ontwikkelen waarmee studenten al aan het begin van hun studie zouden leren om tekenen te gebruiken als communicatiemiddel en heeft de afgelopen anderhalf jaar onderzocht welke tekenmethodes geschikt zouden zijn voor studenten en docenten om te gebruiken tijdens hun studie.
+
+## Kenmerken
+
+### Tools gebruikt:
+* Figma
+* Visual Studio Code
+
+### Code
+* HTML 5
+* CSS 3
+* JavaScript
+
+## Installatie
+1. Clone of download deze respository.
+2. Ga naar de root directory van het project.
+3. Open het index.html bestand. Hierdoor wordt de website geopend.
+
+## Bronnen
+
+### Fonts
+* https://fonts.adobe.com/fonts/rigid-square
+* https://fonts.adobe.com/fonts/yrsa
+
+## Licentie
+
+![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
+
+This work is licensed under [GNU GPLv3](./LICENSE).
